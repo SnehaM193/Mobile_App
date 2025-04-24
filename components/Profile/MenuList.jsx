@@ -38,6 +38,14 @@ export default function MenuList() {
 
   const router = useRouter();
 
+  const onMenuClick = (item) => {
+    if (item.path == "logout") {
+      signOut();
+      return;
+    }
+    router.push(item.path);
+  };
+
   return (
     <View
       style={{
