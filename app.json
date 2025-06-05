@@ -51,7 +51,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "8bf58931-6a6c-45b2-84f4-0cca9a76973d"
+        "projectId": "a8019826-994a-4d49-8794-f8047c64936c"
       }
     },
     "runtimeVersion": {
@@ -59,6 +59,7 @@
     },
     "updates": {
       "url": "https://u.expo.dev/8bf58931-6a6c-45b2-84f4-0cca9a76973d"
-    }
+    },
+    "owner": "goldfish15019"
   }
 }
